@@ -19,22 +19,7 @@
   <li>Interactive Visualization of road networks on maps for analysis.</li>
 </ul>
 
-<h2>⚙️ Installation Instructions</h2>
-<ol>
-  <li>Clone the repository:
-    <pre><code>git clone https://github.com/DeepNets-US/SIH-2024.git</code></pre>
-  </li>
-  <li>Navigate to the project directory:
-    <pre><code>cd SIH-2024</code></pre>
-  </li>
-  <li>Create a virtual environment and activate it:
-    <pre><code>python -m venv env<br>
-    source env/bin/activate  # On Windows use `env\Scripts\activate`</code></pre>
-  </li>
-  <li>Install dependencies:
-    <pre><code>pip install -r requirements.txt</code></pre>
-  </li>
-</ol>
+
 
 <h2>💻 Usage</h2>
 <ol>
