@@ -208,9 +208,9 @@ export const collabApps = [
 export const pricing = [
   {
     id: "0",
-    title: "Basic",
-    description: "AI chatbot, personalized recommendations",
-    price: "0",
+    title: "Rishav Kumar",
+    description: "Team Leader",
+    price: null,
     features: [
       "An AI chatbot that can understand your queries",
       "Personalized recommendations based on your preferences",
@@ -219,9 +219,9 @@ export const pricing = [
   },
   {
     id: "1",
-    title: "Premium",
-    description: "Advanced AI chatbot, priority support, analytics dashboard",
-    price: "9.99",
+    title: "Neha Kumari",
+    description: "Team Member",
+    price: null,
     features: [
       "An advanced AI chatbot that can understand complex queries",
       "An analytics dashboard to track your conversations",
@@ -230,8 +230,8 @@ export const pricing = [
   },
   {
     id: "2",
-    title: "Enterprise",
-    description: "Custom AI chatbot, advanced analytics, dedicated account",
+    title: "Utkarsh Saxena",
+    description: "Team Member",
     price: null,
     features: [
       "An AI chatbot that can understand your queries",
@@ -239,6 +239,40 @@ export const pricing = [
       "Ability to explore the app and its features without any cost",
     ],
   },
+  {
+    id: "3",
+    title: "Ritesh Verna",
+    description: "Team Member",
+    price: null,
+    features: [
+      "An AI chatbot that can understand your queries",
+      "Personalized recommendations based on your preferences",
+      "Ability to explore the app and its features without any cost",
+    ],
+  },
+  {
+    id: "2",
+    title: "Avish Singh",
+    description: "Team Member",
+    price: null,
+    features: [
+      "An AI chatbot that can understand your queries",
+      "Personalized recommendations based on your preferences",
+      "Ability to explore the app and its features without any cost",
+    ],
+  },
+  {
+    id: "2",
+    title: "Manav Khadka",
+    description: "Team Member",
+    price: null,
+    features: [
+      "An AI chatbot that can understand your queries",
+      "Personalized recommendations based on your preferences",
+      "Ability to explore the app and its features without any cost",
+    ],
+  },
+  
 ];
 
 export const benefits = [

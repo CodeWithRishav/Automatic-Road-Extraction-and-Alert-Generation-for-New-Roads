@@ -29,8 +29,7 @@ const Pricing = () => {
 
         <Heading
           tag="road detection using satellite imagery"
-          title="leverages ISRO's Boonidhi portal satellite
-images to automatically detect roads"
+          title="Team Members - Team GeoTrack Innovators"
         />
 
         <div className="relative">

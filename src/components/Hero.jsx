@@ -38,7 +38,7 @@ const Hero = () => {
           <p className="body-1 max-w-3xl mx-auto mb-6 text-n-2 lg:mb-8">
           Detect new roads and generate real-time alerts using cutting-edge satellite imagery and machine learning technology.
           </p>
-          <Button href="/pricing" white>
+          <Button href="https://sih-2024-nu.vercel.app/" white>
             Get started
           </Button>
         </div>

@@ -16,7 +16,7 @@ const Services = () => {
     <Section id="how-to-use">
       <div className="container">
         <Heading
-          title="Features."
+          title="Navigating Tomorrow with Intelligent Road Mapping."
           text="automatically detect and map new roads using satellite imagery. This tool integrates advanced machine learning models to provide real-time alerts of road changes"
         />
 
