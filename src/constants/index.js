@@ -55,7 +55,7 @@ export const navigation = [
   {
     id: "3",
     title: "View Model",
-    url: "#Model",
+    url: "https://sih-2024-nu.vercel.app/",
   },
   {
     id: "4",
