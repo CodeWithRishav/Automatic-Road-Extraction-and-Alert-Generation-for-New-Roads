@@ -230,7 +230,7 @@ export const pricing = [
   },
   {
     id: "2",
-    title: "Utkarsh Saxena",
+    title: "Komal Ghode",
     description: "Team Member",
     price: null,
     features: [
@@ -241,7 +241,18 @@ export const pricing = [
   },
   {
     id: "3",
-    title: "Ritesh Verna",
+    title: "Utkarsh Saxena",
+    description: "Team Member",
+    price: null,
+    features: [
+      "An AI chatbot that can understand your queries",
+      "Personalized recommendations based on your preferences",
+      "Ability to explore the app and its features without any cost",
+    ],
+  },
+  {
+    id: "2",
+    title: "Ritesh Verma",
     description: "Team Member",
     price: null,
     features: [
@@ -253,17 +264,6 @@ export const pricing = [
   {
     id: "2",
     title: "Avish Singh",
-    description: "Team Member",
-    price: null,
-    features: [
-      "An AI chatbot that can understand your queries",
-      "Personalized recommendations based on your preferences",
-      "Ability to explore the app and its features without any cost",
-    ],
-  },
-  {
-    id: "2",
-    title: "Manav Khadka",
     description: "Team Member",
     price: null,
     features: [
